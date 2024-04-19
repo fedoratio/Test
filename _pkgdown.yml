@@ -1,4 +1,8 @@
-url: ~
+url: https://fedoratio.github.io/Test/
 template:
   bootstrap: 5
 
+reference:
+  - title: Package
+    contents:
+      - irgendwas
